@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="message">Hello World!</string>
+    <string name="HintPassword">Password</string>
+    <string name="HintUserName">User Name</string>
+    <string name="LogIn">Login</string>
+</resources>
